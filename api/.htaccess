@@ -1,0 +1,36 @@
+Options +FollowSymLinks
+Options -Indexes
+AddDefaultCharset utf-8
+
+
+RewriteEngine On
+# errors
+RewriteRule ^$ /api/errors/404.php [QSA]
+RewriteRule ^user/$ /api/errors/404.php [QSA]
+
+
+RewriteRule ^404$ errors/404.php [QSA]
+RewriteRule ^500$ errors/500.php [QSA]
+
+ErrorDocument 404 /api/errors/404.php
+ErrorDocument 500 /api/errors/500.php
+
+RewriteRule ^user/admin/([A-Z-a-z0-9]+)$ user/admin/$1.php [QSA]
+
+RewriteRule ^user/student/files/(.*)\.(py)$ user/student/files.php?file_name=$1.$2 [QSA]
+
+# user assignment operations
+
+RewriteRule ^user/(teacher|student)/assignments/([0-9]+)$ user/$1/assignments.php?assignment_id=$2 [QSA]
+RewriteRule ^user/teacher/assignments/([a-z]+)/([0-9]+)$ user/teacher/assignments.php?action=$1&assignment_id=$2 [QSA]
+
+# user file operations 
+
+RewriteRule ^user/file/([A-Za-z0-9]+)/(.*)\.(py)$ user/file/$1.php?targetFile=$2.$3 [QSA]
+RewriteRule ^user/([A-Za-z0-9/]+)$ user/$1.php [QSA]
+
+
+
+
+
+

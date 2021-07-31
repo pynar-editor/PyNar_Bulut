@@ -1,0 +1,45 @@
+.btn-student, .btn-teacher{
+    width: 125px;
+}
+
+.btn-slider {
+    height: 38px;
+    width: 125px;
+    margin-top: -38px;
+}
+
+.person-student-image {
+    margin-left: 100%;
+}
+
+.person-student-button, .person-teacher-button, .teacher-select {
+    width: 200px;
+}
+
+.person-student-button-hide {
+    margin-left: -200px;
+}
+
+.person-teacher-button-hide {
+    margin-right: -200px;
+}
+
+.login-bg {
+    background: url('../img/login-abstract.jpg');
+    background-size: cover;
+}
+
+@media (min-width: 992px) {
+    #signup-form {
+        width: 450px;
+    }
+    .btn-slider-teacher {
+        margin-left: -450px;
+    }
+    .person-login {
+        width: 550px!important;
+    }
+    .person-login-teacher {
+        margin-left: calc(100% - 550px);
+    }
+}

@@ -1,0 +1,7 @@
+/.env*
+/setup.php
+/api/chunks
+/phpmy
+/api/config.php
+/site/
+/site.zip

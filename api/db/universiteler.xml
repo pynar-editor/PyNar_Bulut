@@ -1,0 +1,1680 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Kurum_Arama>
+    <Table>
+        <KURUM_ADI>ABDULLAH GÜL ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.agu.edu.tr/rektorluk-ofisi</WEB_ADRES>
+        <TEL>03522248800</TEL>
+        <FAX>0352 338 88 28</FAX>
+        <ADRES>Barbaros Mahallesi Sümer Kampüsü Kocasinan-KAYSERİ</ADRES>
+        <IL_ADI>KAYSERİ</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>ACIBADEM MEHMET ALİ AYDINLAR ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.acibadem.edu.tr</WEB_ADRES>
+        <TEL>02165004444</TEL>
+        <FAX>02165775048</FAX>
+        <ADRES>İçerenköy Mah. Kayışdağı Cad. No:32 İçerenköy 34752 Ataşehir İstanbul</ADRES>
+        <IL_ADI>İSTANBUL</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>ADANA ALPARSLAN TÜRKEŞ BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.atu.edu.tr</WEB_ADRES>
+        <TEL>03224550001</TEL>
+        <FAX>03224550002</FAX>
+        <ADRES>Balcalı Mahallesi, Çatalan Caddesi No:201/1 01250 Sarıçam/ADANA</ADRES>
+        <IL_ADI>ADANA</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>ADIYAMAN ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.adiyaman.edu.tr/</WEB_ADRES>
+        <TEL>04162233840</TEL>
+        <FAX>0416 223 38 43</FAX>
+        <ADRES>Adıyaman Üniversitesi, Altınşehir Mh. 3005 Sokak No:13 02040   ADIYAMAN</ADRES>
+        <IL_ADI>ADIYAMAN</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>AFYON KOCATEPE ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.aku.edu.tr</WEB_ADRES>
+        <TEL>02724440303</TEL>
+        <FAX>0272 2281401</FAX>
+        <ADRES>Afyon Kocatepe Üniversitesi Rektörlüğü
+ANS Kampusü Gazlıgöl Yolu Üzeri
+AFYONKARAHİSAR</ADRES>
+        <IL_ADI>AFYONKARAHİSAR</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>AFYONKARAHİSAR SAĞLIK BİLİMLERİ ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>www.afsu.edu.tr</WEB_ADRES>
+        <TEL>02722463335</TEL>
+        <FAX>02722281429</FAX>
+        <ADRES>Zafer Sağlık Külliyesi
+Dörtyol Mah. 2078.Sok No:3
+AFYONKARAHİSAR</ADRES>
+        <IL_ADI>AFYONKARAHİSAR</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>AĞRI İBRAHİM ÇEÇEN ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.agri.edu.tr</WEB_ADRES>
+        <TEL>04722162008</TEL>
+        <FAX>04722151182</FAX>
+        <ADRES>Erzurum yolu  4 km 04100 Merkez / AĞRI</ADRES>
+        <IL_ADI>AĞRI</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>AKDENİZ ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.akdeniz.edu.tr</WEB_ADRES>
+        <TEL>02422274400</TEL>
+        <FAX>02422274958</FAX>
+        <ADRES>Akdeniz Üniversitesi Kampüs Antalya</ADRES>
+        <IL_ADI>ANTALYA</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>AKSARAY ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>www.aksaray.edu.tr</WEB_ADRES>
+        <TEL>03822883026-</TEL>
+        <FAX>03822883026</FAX>
+        <ADRES>Bahçesaray Mah.68100 AKSARAY</ADRES>
+        <IL_ADI>AKSARAY</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>ALANYA ALAADDİN KEYKUBAT ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.alanya.edu.tr/</WEB_ADRES>
+        <TEL>02425106060</TEL>
+        <FAX>02425106019</FAX>
+        <ADRES>Kestel Mahallesi Üniversite Caddesi No:80 Alanya/Antalya</ADRES>
+        <IL_ADI>ANTALYA</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>ALANYA HAMDULLAH EMİN PAŞA ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.ahep.edu.tr</WEB_ADRES>
+        <TEL>02425136969</TEL>
+        <FAX>0242 513 69 66</FAX>
+        <ADRES>Cikcilli Beldesi, Saraybeleni Mahallesi, Saraybeleni Cad. No:7, PK 80 07400, Alanya, ANTALYA</ADRES>
+        <IL_ADI>ANTALYA</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>ALTINBAŞ ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.altinbas.edu.tr/tr</WEB_ADRES>
+        <TEL>02126040100</TEL>
+        <FAX>02124459255</FAX>
+        <ADRES>Mahmutbey, Dİlmenler Cd. No. 26 Bağcılar, İstanbul</ADRES>
+        <IL_ADI>İSTANBUL</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>AMASYA ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.amasya.edu.tr</WEB_ADRES>
+        <TEL>03582115005</TEL>
+        <FAX>0 358 218 01 04</FAX>
+        <ADRES>Akbilek Mah. Hakimiyet cad. Milli Hakimiyet Yerleşkesi No:4/3 PK: 05100 Merkez/AMASYA</ADRES>
+        <IL_ADI>AMASYA</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>ANADOLU ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.anadolu.edu.tr/</WEB_ADRES>
+        <TEL>02223350581</TEL>
+        <FAX>02223353616</FAX>
+        <ADRES>Anadolu Üniversitesi Yunus Emre Kampusü, 26470 Tepebaşı/ESKİŞEHİR</ADRES>
+        <IL_ADI>ESKİŞEHİR</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>ANKA TEKNOLOJİ ÜNİVERSİTESİ</KURUM_ADI>
+        <TEL>0</TEL>
+        <IL_ADI>ANKARA</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>ANKARA BİLİM ÜNİVERSİTESİ</KURUM_ADI>
+        <IL_ADI>ANKARA</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>ANKARA HACI BAYRAM VELİ ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>https://hacibayram.edu.tr</WEB_ADRES>
+        <TEL>+90 (312) 231 7360</TEL>
+        <FAX>03122313881</FAX>
+        <ADRES>Ankara Hacı Bayram Veli Üniversitesi Yüce Tepe Mahallesi 85.Cadde No.8 06570 Çankaya /ANKARA</ADRES>
+        <IL_ADI>ANKARA</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>ANKARA MEDİPOL ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>www.ankaramedipol.edu.tr</WEB_ADRES>
+        <TEL>4442010</TEL>
+        <FAX>03129201006</FAX>
+        <ADRES>Hacı Bayram Mahallesi, Talatpaşa Bulvarı No:2</ADRES>
+        <IL_ADI>ANKARA</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>ANKARA MÜZİK VE GÜZEL SANATLAR ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.mgu.edu.tr</WEB_ADRES>
+        <TEL>3124860386</TEL>
+        <FAX>3124861795</FAX>
+        <ADRES>Yukarı Dikmen Mah. Turan Güneş Bul. Neşet Ertaş Cad. No:4 Oran Ankara</ADRES>
+        <IL_ADI>ANKARA</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>ANKARA SOSYAL BİLİMLER ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.asbu.edu.tr/</WEB_ADRES>
+        <TEL>03125964444</TEL>
+        <FAX>03125964424</FAX>
+        <ADRES>Hükümet Meydanı No: 2 Ulus/ANKARA</ADRES>
+        <IL_ADI>ANKARA</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>ANKARA ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.ankara.edu.tr</WEB_ADRES>
+        <TEL>03122234361</TEL>
+        <FAX>0312 2236370</FAX>
+        <ADRES>Ankara Üniversitesi Rektörlüğü Tandoğan/ANKARA</ADRES>
+        <IL_ADI>ANKARA</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>ANKARA YILDIRIM BEYAZIT ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>www.aybu.edu.tr</WEB_ADRES>
+        <TEL>03129061000</TEL>
+        <FAX>03129062950</FAX>
+        <ADRES>Ankara Yıldırım Beyazıt Üniversitesi Esenboğa Külliyesi Dumlupınar Mahallesi Esenboğa/Ankara</ADRES>
+        <IL_ADI>ANKARA</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>ANTALYA AKEV ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>www.akev.edu.tr</WEB_ADRES>
+        <TEL>444 1 264</TEL>
+        <FAX>0 242 777 10 41</FAX>
+        <ADRES>Kadriye Mah Celal Bayar CAd No:5-6 Serik-Antalya 07525</ADRES>
+        <IL_ADI>ANTALYA</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>ANTALYA BİLİM ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.antalya.edu.tr/</WEB_ADRES>
+        <TEL>02422450000</TEL>
+        <FAX>024224501 00</FAX>
+        <ADRES>Çıplaklı Mah. Akdeniz Bulvarı No:290/A Döşemealtı / ANTALYA</ADRES>
+        <IL_ADI>ANTALYA</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>ARDAHAN ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.ardahan.edu.tr</WEB_ADRES>
+        <TEL>04782117575</TEL>
+        <FAX>04782117509</FAX>
+        <ADRES>Ardahan Üniversitesi Yenisey Kampüsü, Rektörlük Hizmet Binası, Çamlıçatak Mevkii, 75000, Merkez/Ardahan</ADRES>
+        <IL_ADI>ARDAHAN</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>ARTVİN ÇORUH ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.artvin.edu.tr</WEB_ADRES>
+        <TEL>04662151010</TEL>
+        <FAX>04662151011</FAX>
+        <ADRES>Artvin Çoruh Üniversitesi Rektörlüğü Fidanlık Mah.Kapı Nu.110 08000 Seyitler Yerleşkesi-ARTVİN</ADRES>
+        <IL_ADI>ARTVİN</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>ATAŞEHİR ADIGÜZEL MESLEK YÜKSEKOKULU</KURUM_ADI>
+        <WEB_ADRES>http://www.adiguzel.edu.tr/</WEB_ADRES>
+        <TEL>02164557770 - 74</TEL>
+        <FAX>0 216 548 28 17</FAX>
+        <ADRES>Yenişehir Mahallesi Barajyolu Caddesi Çağlayan Sokak No:18 Ataşehir / İstanbul</ADRES>
+        <IL_ADI>İSTANBUL</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>ATATÜRK ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.atauni.edu.tr</WEB_ADRES>
+        <TEL>04422311001</TEL>
+        <FAX>0442 236 10 14</FAX>
+        <ADRES>Atatürk Üniversitesi Rektörlüğü Yakutiye/Erzurum</ADRES>
+        <IL_ADI>ERZURUM</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>ATILIM ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>www.atilim.edu.tr</WEB_ADRES>
+        <TEL>03125868200</TEL>
+        <FAX>03125868091</FAX>
+        <ADRES>Atılım Üniversitesi Kızılcaşar Mah. İncek Kampüsü Gölbaşı/İncek/ANKARA</ADRES>
+        <IL_ADI>ANKARA</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>AVRASYA ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.avrasya.edu.tr</WEB_ADRES>
+        <TEL>4623346444-45-47</TEL>
+        <FAX>4623346454</FAX>
+        <ADRES>Avrasya Üniversitesi Rektörlüğü
+Adnan Kahvesi Mah. Rize Caddesi
+Pelitli/TRABZON</ADRES>
+        <IL_ADI>TRABZON</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>AYDIN ADNAN MENDERES ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.adu.edu.tr</WEB_ADRES>
+        <TEL>02562182030</TEL>
+        <FAX>02562146688</FAX>
+        <ADRES>AYTEPE MEVKİ AYDIN</ADRES>
+        <IL_ADI>AYDIN</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>BAHÇEŞEHİR ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.bahcesehir.edu.tr</WEB_ADRES>
+        <TEL>02123810000</TEL>
+        <FAX>2123810020</FAX>
+        <ADRES>Çırağan Caddesi Osmanpaşa Mektebi Sokak No: 4-6 3453 Beşiktaş, İSTANBUL / TÜRKİYE</ADRES>
+        <IL_ADI>İSTABUL</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>BALIKESİR ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.balikesir.edu.tr</WEB_ADRES>
+        <TEL>02666121400</TEL>
+        <FAX>02666121412</FAX>
+        <ADRES>Balıkesir Üniversitesi Çağış Yerleşkesi (Bigadiç yolu üzeri 17. km) 10145, BALIKESİR</ADRES>
+        <IL_ADI>BALIKESİR</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.bandirma.edu.tr</WEB_ADRES>
+        <TEL>02667170117</TEL>
+        <FAX>0266 717 00 30</FAX>
+        <ADRES>Yeni Mh. Şehit Astsubay Mustafa Soner Varlık Cd. No:77 Bandırma/BALIKESİR</ADRES>
+        <IL_ADI>BALIKESİR</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>BARTIN ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.bartin.edu.tr/</WEB_ADRES>
+        <TEL>03782235500</TEL>
+        <FAX>03782235042</FAX>
+        <ADRES>Bartın Üniversitesi Rektörlüğü Merkez/BARTIN</ADRES>
+        <IL_ADI>BARTIN</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>BAŞKENT ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.baskent.edu.tr</WEB_ADRES>
+        <TEL>0312 234 12 15</TEL>
+        <FAX>0312 246 66 04</FAX>
+        <ADRES>Bağlıca Kampüsü Fatih Sultan Mahallesi
+Eskişehir Yolu 18.km TR 06790
+Etimesgut Ankara</ADRES>
+        <IL_ADI>ANKARA</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>BATMAN ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.batman.edu.tr</WEB_ADRES>
+        <TEL>04882173800</TEL>
+        <FAX>04882173601</FAX>
+        <ADRES>Batı Raman 72100 Batman, Türkiye</ADRES>
+        <IL_ADI>BATMAN</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>BAYBURT ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>https://bayburt.edu.tr</WEB_ADRES>
+        <TEL>04582111152-57</TEL>
+        <FAX>0 458 211 11 27</FAX>
+        <ADRES>Dede Korkut Külliyesi 69000 / BAYBURT</ADRES>
+        <IL_ADI>BAYBURT</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>BEYKENT ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>www.beykent.edu.tr</WEB_ADRES>
+        <TEL>4441997 -  2002</TEL>
+        <FAX>02122896487</FAX>
+        <ADRES>Ayazağa Mahallesi, Hadım Koru Yolu Caddesi, No:19 Sarıyer/İSTANBUL</ADRES>
+        <IL_ADI>İSTANBUL</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>BEYKOZ ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>www.beykoz.edu.tr</WEB_ADRES>
+        <TEL>216 912 2252</TEL>
+        <FAX>216 413 9520</FAX>
+        <ADRES>Kavacık Mahallesi Orhan Veli Kanık Caddesi No:114 Kavacık Beykoz İstanbul</ADRES>
+        <IL_ADI>İSTANBUL</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>BEZM-İ ÂLEM VAKIF ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.bezmialem.edu.tr/</WEB_ADRES>
+        <TEL>02125232288</TEL>
+        <FAX>0212 621 75 78</FAX>
+        <ADRES>Adnan Menderes Bulvarı Vatan Cad. 34093 Fatih/İSTANBUL</ADRES>
+        <IL_ADI>İSTANBUL</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>BİLECİK ŞEYH EDEBALİ ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.bilecik.edu.tr/</WEB_ADRES>
+        <TEL>02282141111</TEL>
+        <FAX>02282141017</FAX>
+        <ADRES>Bilecik Şeyh Edebali Üniversitesi Rektörlüğü 11210 Merkez Bilecik</ADRES>
+        <IL_ADI>BILECIK</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>BİNGÖL ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.bingol.edu.tr</WEB_ADRES>
+        <TEL>04262160012-15</TEL>
+        <FAX>0426 215 10 20</FAX>
+        <ADRES>Selahaddin-i Eyyübi Mah. Üniversite Cad. No:1 BİNGÖL</ADRES>
+        <IL_ADI>BİNGÖL</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>BİRUNİ ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.biruni.edu.tr/</WEB_ADRES>
+        <TEL>4448276</TEL>
+        <FAX>0 212 416 46 46</FAX>
+        <ADRES>10. Yıl Caddesi Protokol Yolu No: 45 (Eski Kozlu Mezarlığı altı, Silivrikapı ve Belgratkapı İett durakları arası) 34010 Topkapı İstanbul</ADRES>
+        <IL_ADI>İSTANBUL</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>BİTLİS EREN ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>www.beu.edu.tr</WEB_ADRES>
+        <TEL>04342220000</TEL>
+        <FAX>04342220101</FAX>
+        <ADRES>Rahva Yerleşkesi Beş Minare Mah. Ahmet Eren Bulvarı 13100 Merkez / Bitlis</ADRES>
+        <IL_ADI>BITLIS</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>BOĞAZİÇİ ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.boun.edu.tr</WEB_ADRES>
+        <TEL>02123595400</TEL>
+        <FAX>02122656357</FAX>
+        <ADRES>Boğaziçi Üniversitesi 
+34342 Bebek/Istanbul Türkiye</ADRES>
+        <IL_ADI>İSTANBL</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>BOLU ABANT İZZET BAYSAL ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.ibu.edu.tr/</WEB_ADRES>
+        <TEL>03742541000</TEL>
+        <FAX>0 374 2534506</FAX>
+        <ADRES>Abant İzzet Baysal Üniversitesi Gölköy Kampüsü 14280 BOLU</ADRES>
+        <IL_ADI>BOLU</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>BURDUR MEHMET AKİF ERSOY ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.mehmetakif.edu.tr</WEB_ADRES>
+        <TEL>02482131000</TEL>
+        <FAX>02482122718</FAX>
+        <ADRES>İstiklal Yerleşkesi BURDUR</ADRES>
+        <IL_ADI>BURDUR</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>BURSA TEKNİK ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://btu.edu.tr/</WEB_ADRES>
+        <TEL>02243003304</TEL>
+        <FAX>02243003329</FAX>
+        <ADRES>Mimar Sinan Mahallesi Mimar Sinan Bulvarı Eflak Caddesi No:177 16310 Yıldırım/BURSA</ADRES>
+        <IL_ADI>BURSA</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>BURSA ULUDAĞ ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.uludag.edu.tr/</WEB_ADRES>
+        <TEL>02242940000</TEL>
+        <FAX>0 224 294 00 37</FAX>
+        <ADRES>Görükle Kampusu 16059 Nilüfer/BURSA</ADRES>
+        <IL_ADI>BURSA</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>ÇAĞ ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.cag.edu.tr/</WEB_ADRES>
+        <TEL>03246514800</TEL>
+        <FAX>3246514811</FAX>
+        <ADRES>Adana-Mersin D 400 Karayolu Üzeri 33800 Yenice-Tarsus/MERSİN</ADRES>
+        <IL_ADI>MERSİN</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>ÇANAKKALE ONSEKİZ MART ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>www.comu.edu.tr</WEB_ADRES>
+        <TEL>02862180607</TEL>
+        <FAX>02862180608</FAX>
+        <ADRES>Çanakkale Onsekiz Mart Üniversitesi, Terzioğlu Kampüsü, Rektörlük Binası , A Blok  Merkez/ÇANAKKALE</ADRES>
+        <IL_ADI>ÇANAKKALE</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>ÇANKAYA ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.cankaya.edu.tr/</WEB_ADRES>
+        <TEL>03122331000 - 03122844500</TEL>
+        <FAX>03122331029-03122864078</FAX>
+        <ADRES>Çankaya Üniversitesi  Merkez Kampüs : Eskişehir Yolu 29. Km Yukarıyurtçu Mahallesi, Mimar Sinan Caddesi No:4, 06790, Etimesgut / ANKARA
+
+Balgat Kampüsü: Çukurambar Mah. Öğretmenler Cad. No: 14, 06530 Balgat/ANKARA</ADRES>
+        <IL_ADI>ANKARA</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>ÇANKIRI KARATEKİN ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>www.karatekin.edu.tr</WEB_ADRES>
+        <TEL>03762189500</TEL>
+        <FAX>03762189509</FAX>
+        <ADRES>Uluyazı Kampüsü Binası / Çankırı</ADRES>
+        <IL_ADI>ÇANKIRI</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>ÇUKUROVA ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>www.cu.edu.tr</WEB_ADRES>
+        <TEL>03223386084</TEL>
+        <FAX>03223386945</FAX>
+        <ADRES>Çukurova Üniversitesi Rektörlüğü 01330 Balcalı, Sarıçam / ADANA</ADRES>
+        <IL_ADI>ADANA</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>DEMİROĞLU BİLİM ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.istanbulbilim.edu.tr</WEB_ADRES>
+        <TEL>02122136486</TEL>
+        <FAX>0212 2139207</FAX>
+        <ADRES>Büyükdere Cad. No:120 Esentepe-Şişli İSTANBUL</ADRES>
+        <IL_ADI>İSTANBUL</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>DİCLE ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>www.dicle.edu.tr</WEB_ADRES>
+        <TEL>04122411001</TEL>
+        <FAX>04122411059</FAX>
+        <ADRES>21280 Kıtılbil Mahallesi Sur / Diyarbakır</ADRES>
+        <IL_ADI>DIYARBAKIR</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>DOĞUŞ ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.dogus.edu.tr</WEB_ADRES>
+        <TEL>4447997</TEL>
+        <FAX>0216-327 96 31</FAX>
+        <ADRES>Doğuş Üniversitesi Zeamet sk. 34722 Kadıköy/İstanbul</ADRES>
+        <IL_ADI>İSTANBUL</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>DOKUZ EYLÜL ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.deu.edu.tr</WEB_ADRES>
+        <TEL>02324121212</TEL>
+        <FAX>0 232 464 81 35</FAX>
+        <ADRES>Cumhuriyet Bulvarı No:144 Alsancak 35210 Konak/İZMİR</ADRES>
+        <IL_ADI>İZMİR</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>DÜZCE ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.duzce.edu.tr/</WEB_ADRES>
+        <TEL>03805421101</TEL>
+        <FAX>0 380 542 11 09</FAX>
+        <ADRES>Düzce Üniversitesi Rektörlüğü Genel Sekreterlik Beçi Kampüsü Merkez Düzce</ADRES>
+        <IL_ADI>DÜZCE</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>EGE ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.ege.edu.tr</WEB_ADRES>
+        <TEL>02323111010</TEL>
+        <FAX>02323434215</FAX>
+        <ADRES>Ege Üniversitesi Rektörlüğü Gençlik Caddesi No:12 PK.35040 Bornova / İzmir</ADRES>
+        <IL_ADI>İZMIR</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>ERCİYES ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.erciyes.edu.tr</WEB_ADRES>
+        <TEL>03522076666</TEL>
+        <FAX>352 437 49 31</FAX>
+        <ADRES>Talas Yolu Melikgazi 38039 KAYSERİ</ADRES>
+        <IL_ADI>KAYSERİ</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>ERZİNCAN BİNALİ YILDIRIM ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.erzincan.edu.tr</WEB_ADRES>
+        <TEL>04442266666</TEL>
+        <FAX>04462266665</FAX>
+        <ADRES>Fatih Mahallesi Erzincan Üniversitesi Rektörlüğü - Erzincan/Merkez</ADRES>
+        <IL_ADI>MERKEZ</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>ERZURUM TEKNİK ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.erzurum.edu.tr/</WEB_ADRES>
+        <TEL>04426662525</TEL>
+        <FAX>0442 666 25 32</FAX>
+        <ADRES>ERZURUM TEKNİK ÜNİVERSİTESİ Ömer Nasuhi Bilmen Mah. Havaalanı Yolu Cad. No:53 YAKUTİYE/ERZURUM</ADRES>
+        <IL_ADI>ERZURUM</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>ESKİŞEHİR OSMANGAZİ ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.ogu.edu.tr</WEB_ADRES>
+        <TEL>02222397148</TEL>
+        <FAX>0222 239 54 00</FAX>
+        <ADRES>Eskişehir Osmangazi Üniversitesi Meşelik Kampüsü Büyükdere Mahallesi Prof.Dr.Nabi AVCI Bulvarı No:4 26040 Eskişehir</ADRES>
+        <IL_ADI>ESKIŞEHIR</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>ESKİŞEHİR TEKNİK ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>https://www.eskisehir.edu.tr/</WEB_ADRES>
+        <TEL>0 222 321 35 50</TEL>
+        <FAX>0 222 211 59 01</FAX>
+        <ADRES>Eskişehir Teknik Üniversitesi 
+İki Eylül Kampüsü 26555 Tepebaşı/ESKİŞEHİR</ADRES>
+        <IL_ADI>ESKİŞEHİR</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>FARUK SARAÇ TASARIM MESLEK YÜKSEKOKULU (İSTANBUL)</KURUM_ADI>
+        <WEB_ADRES>http://www.faruksarac.edu.tr/</WEB_ADRES>
+        <TEL>0850 811 18 18</TEL>
+        <FAX>0850 811 18 18</FAX>
+        <ADRES>Cankurtaran Mahallesi Kennedy Caddesi No:2 Ahır Kapı Feneri Yanı Fatih İSTANBUL</ADRES>
+        <IL_ADI>İSTANBUL</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>FATİH SULTAN MEHMET VAKIF ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>www.fsm.edu.tr</WEB_ADRES>
+        <TEL>02125218100</TEL>
+        <FAX>2125218484</FAX>
+        <ADRES>Zeyrek Mah. Büyük karaman Cad. No:53 FATİH/ İSTANBUL</ADRES>
+        <IL_ADI>İSTANBUL</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>FENERBAHÇE ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>www.fbu.edu.tr</WEB_ADRES>
+        <TEL>02169101907</TEL>
+        <FAX>02169101921</FAX>
+        <ADRES>Atatürk Mah. Ataşehir Bulvarı Ertuğrul Gazi Sk. Metropol İstanbul E Blok, 34758 Ataşehir-İstanbul</ADRES>
+        <IL_ADI>İSTANBUL</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>FIRAT ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.firat.edu.tr/</WEB_ADRES>
+        <TEL>04242128510</TEL>
+        <FAX>0424 212 27 17</FAX>
+        <ADRES>Fırat Üniversitesi Rektörlüğü 23119 ELAZIĞ</ADRES>
+        <IL_ADI>ELAZIĞ</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>GALATASARAY ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.gsu.edu.tr</WEB_ADRES>
+        <TEL>02122274480</TEL>
+        <FAX>02122592332</FAX>
+        <ADRES>Galatasaray Üniversitesi Çırağan Cad. No:36 34349 Ortaköy/İstanbul</ADRES>
+        <IL_ADI>İSTANBUL</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>GAZİ ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://gazi.edu.tr/</WEB_ADRES>
+        <TEL>03122126840-03122022000</TEL>
+        <FAX>0312 221 32 02</FAX>
+        <ADRES>Gazi Üniversitesi Rektörlüğü 06500 Teknikokullar / Ankara</ADRES>
+        <IL_ADI>ANKARA</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>GAZİANTEP İSLAM BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.gibtu.edu.tr/</WEB_ADRES>
+        <TEL>03429097500</TEL>
+        <FAX>08502589801</FAX>
+        <ADRES>Beştepe Mah. 192180 Nolu Cad. 27010 Şahinbey/GAZİANTEP</ADRES>
+        <IL_ADI>GAZİANTEP</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>GAZİANTEP ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.gantep.edu.tr</WEB_ADRES>
+        <TEL>03423601010</TEL>
+        <FAX>0342 3604377</FAX>
+        <ADRES>GAZİANTEP ÜNİVERSİTESİ REKTÖRLÜĞÜ</ADRES>
+        <IL_ADI>GAZİANTEP</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>GEBZE TEKNİK ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>www.gtu.edu.tr</WEB_ADRES>
+        <TEL>02626051509</TEL>
+        <FAX>2626538490</FAX>
+        <ADRES>Gebze Teknik Üniversitesi Rektörlüğü Cumhuriyet Mah. 2254 Sok. No:2 Gebze/KOCAELİ</ADRES>
+        <IL_ADI>KOCAELİ</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>GİRESUN ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.giresun.edu.tr/</WEB_ADRES>
+        <TEL>04543101000</TEL>
+        <FAX>0454 310 10 16</FAX>
+        <ADRES>Giresun Üniversitesi | Giresun</ADRES>
+        <IL_ADI>GIRESUN</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>GÜMÜŞHANE ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.gumushane.edu.tr</WEB_ADRES>
+        <TEL>04562331000</TEL>
+        <FAX>0456 233 11 19</FAX>
+        <ADRES>Gümüşhane Üniversitesi Rektörlüğü
+Bağlarbaşı Mh.
+29000, Merkez/GÜMÜŞHANE</ADRES>
+        <IL_ADI>GÜMÜŞHANE</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>HACETTEPE ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://hacettepe.edu.tr</WEB_ADRES>
+        <TEL>03123051001</TEL>
+        <FAX>03123104051</FAX>
+        <ADRES>Hacettepe Üniversitesi Rektörlüğü Sıhhıye/ANKARA</ADRES>
+        <IL_ADI>ANKARA</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>HAKKARİ ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>www.hakkari.edu.tr / www.hu.edu.tr</WEB_ADRES>
+        <TEL>04382121212</TEL>
+        <FAX>04382121211</FAX>
+        <ADRES>Merzan Mah. Küçük Sanayi Sitesi arkası Merkez/HAKKARİ</ADRES>
+        <IL_ADI>HAKKARİ</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>HALİÇ ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>www.halic.edu.tr</WEB_ADRES>
+        <TEL>02129242444</TEL>
+        <FAX>02129997852</FAX>
+        <ADRES>Sütlüce Mahallesi, İmrahor Caddesi, No:11, Beyoğlu, istanbul</ADRES>
+        <IL_ADI>ISTANBUL</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>HARRAN ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.harran.edu.tr/</WEB_ADRES>
+        <TEL>04143183000</TEL>
+        <FAX>0 414 318 31 90</FAX>
+        <ADRES>Harran Üniversitesi Rektörlüğü Osmanbey Kampüsü Şanlıurfa</ADRES>
+        <IL_ADI>ŞANLIURFA</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>HASAN KALYONCU ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>www.hku.edu.tr</WEB_ADRES>
+        <TEL>03422118080</TEL>
+        <FAX>03422118081</FAX>
+        <ADRES>Yeşilkent Mah. Havalimanı Yolu üzeri 8.km Şahinbey/GAZİANTEP</ADRES>
+        <IL_ADI>GAZİANTEP</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>HATAY MUSTAFA KEMAL ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.mku.edu.tr</WEB_ADRES>
+        <TEL>03262213317 - 1819</TEL>
+        <FAX>03262213320</FAX>
+        <ADRES>Alahan Tayfur Sökmen Kampüsü Dış kapı no:35 Adres No:3330417886 Alahan/Antakya/Hatay</ADRES>
+        <IL_ADI>HATAY</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>HİTİT ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.hitit.edu.tr/</WEB_ADRES>
+        <TEL>03642191919</TEL>
+        <FAX>03642191938</FAX>
+        <ADRES>Hitit Üniversitesi Kuzey Kampüsü Çevre Yolu Bulvarı PK:19030 ÇORUM</ADRES>
+        <IL_ADI>ÇORUM</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>IĞDIR ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.igdir.edu.tr</WEB_ADRES>
+        <TEL>04762230010-11-12-13</TEL>
+        <FAX>04762230017-21</FAX>
+        <ADRES>Şehit Bülent Yurtseven Kampüsü/ IĞDIR</ADRES>
+        <IL_ADI>IĞDIR</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>ISPARTA UYGULAMALI BİLİMLER ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>https://isparta.edu.tr/</WEB_ADRES>
+        <TEL>02462146004</TEL>
+        <FAX>02462283006</FAX>
+        <ADRES>Isparta uygulamalı Bilimler Üniversitesi Rektörlüğü, Bahçelievler Mah., 102. Cad., No:24, 32200, ISPARTA</ADRES>
+        <IL_ADI>ISPARTA</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>IŞIK ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.isikun.edu.tr/</WEB_ADRES>
+        <TEL>02165287014</TEL>
+        <FAX>02167121469</FAX>
+        <ADRES>Işık Üniversitesi, Meşrutiyet Köyü, Üniversitesi Sok. No:2 ŞİLE/İSTANBUL</ADRES>
+        <IL_ADI>İSTANBUL</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>İBN HALDUN ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>www.ihu.edu.tr</WEB_ADRES>
+        <TEL>02126920212 - 1005</TEL>
+        <FAX>02125516464</FAX>
+        <ADRES>Başak Mah. Ordu Cad. F-05 Blok No:3 P.K. 34480 Başakşehir/İST.</ADRES>
+        <IL_ADI>İSTANBUL</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>İHSAN DOĞRAMACI BİLKENT ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.bilkent.edu.tr/</WEB_ADRES>
+        <TEL>03122664120</TEL>
+        <FAX>0312 266 41 27</FAX>
+        <ADRES>BİLKENT ÜNİVERSİTESİ 06800 BİLKENT/ANKARA</ADRES>
+        <IL_ADI>ANKARA</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>İNÖNÜ ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.inonu.edu.tr/</WEB_ADRES>
+        <TEL>04223410029</TEL>
+        <FAX>0 422 341 00 32</FAX>
+        <ADRES>İnönü Üniversitesi Kampüsü Elazığ Yolu 15. Km. 44280 MALATYA</ADRES>
+        <IL_ADI>MALATYA</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>İSKENDERUN TEKNİK ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>www.iste.edu.tr</WEB_ADRES>
+        <TEL>03266135600</TEL>
+        <FAX>03266135613</FAX>
+        <ADRES>İskenderun Teknik Üniversitesi Rektörlüğü Merkez Kampüs 31200 
+İskenderun/HATAY</ADRES>
+        <IL_ADI>HATAY</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>İSTANBUL AREL ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.arel.edu.tr</WEB_ADRES>
+        <TEL>02128672500</TEL>
+        <FAX>2128600481</FAX>
+        <ADRES>İstanbul Arel Üniversitesi -Türkoba Mah. Erguvan Sokak No: 26/K Tepekent-B.Çekmece/İSTANBUL</ADRES>
+        <IL_ADI>İSTANBUL</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>İSTANBUL ATLAS ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>www.atlas.edu.tr</WEB_ADRES>
+        <TEL>444 34 39</TEL>
+        <FAX>0212 761 87 61</FAX>
+        <ADRES>ATLAS VADİ KAMPÜSÜ 2020. ANADOLU CAD. NO. 40 KAĞITHANE İSTANBUL</ADRES>
+        <IL_ADI>İSTANBUL</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>İSTANBUL AYDIN ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.aydin.edu.tr</WEB_ADRES>
+        <TEL>4441428</TEL>
+        <FAX>02124255759</FAX>
+        <ADRES>Florya Halit Aydın Kampüsü Beşyol Mah. İnönü Cad. No: 38 Sefaköy-Küçükçekmece/İSTANBUL</ADRES>
+        <IL_ADI>İSTANBUL</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>İSTANBUL AYVANSARAY ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>www.ayvansaray.edu.tr</WEB_ADRES>
+        <TEL>4447696</TEL>
+        <FAX>02126214503</FAX>
+        <ADRES>Prof.Muammer Aksoy Cd. No: 10 Kazlıçeşme / İSTANBUL</ADRES>
+        <IL_ADI>İSTANBUL</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>İSTANBUL BİLGİ ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>www.bilgi.edu.tr</WEB_ADRES>
+        <TEL>02123115000</TEL>
+        <FAX>02122162414</FAX>
+        <ADRES>Eski Silahtarağa Elektrik Santralı Kazım Karabekir Cad. No: 2/13 34060 Eyüpsultan İstanbul</ADRES>
+        <IL_ADI>İSTANBUL</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>İSTANBUL ESENYURT ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.esenyurt.edu.tr</WEB_ADRES>
+        <TEL>Santral4449123 - RektörlükD.902124500026</TEL>
+        <FAX>0212 699 09 90</FAX>
+        <ADRES>İnönü Mah. Doğan Araslı Bulvarı No:79 Esenyurt-İSTANBUL</ADRES>
+        <IL_ADI>İSTANBUL</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>İSTANBUL GALATA ÜNİVERSİTESİ</KURUM_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>İSTANBUL GEDİK ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>www.gedik.edu.tr</WEB_ADRES>
+        <TEL>02164524585</TEL>
+        <FAX>02164528717</FAX>
+        <ADRES>Cumhuriyet Mahallesi İlkbahar Sokak No: 1 Yakacık 34876 Kartal İstanbul</ADRES>
+        <IL_ADI>İSTANBUL</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>İSTANBUL GELİŞİM ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>www.gelisim.edu.tr</WEB_ADRES>
+        <TEL>02124227000</TEL>
+        <FAX>02124227401</FAX>
+        <ADRES>Cihangir Mahallesi Şehit Jandarma Komando Er Hakan Öner Sk. No:1 Avcılar / İSTANBUL</ADRES>
+        <IL_ADI>İSTANBUL</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>İSTANBUL KENT ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>www.kent.edu.tr</WEB_ADRES>
+        <TEL>02126101010</TEL>
+        <FAX>02122445368</FAX>
+        <ADRES>Cihangir Mahallesi Sıraselviler Caddesi No:71 34433 Beyoğlu İSTANBUL</ADRES>
+        <IL_ADI>İSTANBUL</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>İSTANBUL KÜLTÜR ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>www.iku.edu.tr</WEB_ADRES>
+        <TEL>02124984141</TEL>
+        <FAX>0212 498 43 06</FAX>
+        <ADRES>Ataköy Yerleşkesi, 34156 Bakırköy / İSTANBUL</ADRES>
+        <IL_ADI>İSTANBUL</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>İSTANBUL MEDENİYET ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.medeniyet.edu.tr</WEB_ADRES>
+        <TEL>02162803333</TEL>
+        <FAX>0 216 2802021</FAX>
+        <ADRES>Dumlupınar mahallesi, D-100 Karayolu No:98  Kadıköy / İstanbul</ADRES>
+        <IL_ADI>İSTANBUL</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>İSTANBUL MEDİPOL ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>www.medipol.edu.tr</WEB_ADRES>
+        <TEL>4448544</TEL>
+        <FAX>0212531755</FAX>
+        <ADRES>Kavacık Mah.Ekinciler Cad.No:19, 34840 Beykoz-İstanbul</ADRES>
+        <IL_ADI>İSTANBUL</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>İSTANBUL OKAN ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>https://www.okan.edu.tr</WEB_ADRES>
+        <TEL>4446526 </TEL>
+        <FAX>2166771647</FAX>
+        <ADRES>Okan Üniversitesi Tuzla Kampüsü, 34959 Akfırat - Tuzla / İSTANBUL</ADRES>
+        <IL_ADI>İSTANBUL</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>İSTANBUL RUMELİ ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>www.rumeli.edu.tr</WEB_ADRES>
+        <TEL>02128660101</TEL>
+        <FAX>02128660125</FAX>
+        <ADRES>Yeni Mahalle Mah. Mehmet Silivrili Cad. No: 38/8 Posta Kodu 34570
+SİLİVRİ-İSTANBUL</ADRES>
+        <IL_ADI>İSTANBUL</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>İSTANBUL SABAHATTİN ZAİM ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.izu.edu.tr/</WEB_ADRES>
+        <TEL>4449798</TEL>
+        <FAX>02126938229</FAX>
+        <ADRES>Halkalı cad. No:281 Küçükçekmece/İSTANBUL Posta Kodu: 34303</ADRES>
+        <IL_ADI>İSTANBUL</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>İSTANBUL SAĞLIK VE TEKNOLOJİ ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>www.istun.edu.tr</WEB_ADRES>
+        <TEL>2124443788</TEL>
+        <FAX>2124443788</FAX>
+        <ADRES>Topkapı Kampüsü
+Seyitnizam Mahallesi Mevlana Caddesi No: 85 Zeytinburnu – İstanbul</ADRES>
+        <IL_ADI>İSTANBUL</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>İSTANBUL ŞİŞLİ MESLEK YÜKSEKOKULU</KURUM_ADI>
+        <WEB_ADRES>www.sisli.edu.tr</WEB_ADRES>
+        <TEL>4447868</TEL>
+        <FAX>02122509503</FAX>
+        <ADRES>Maslak Mah. Atatürk Oto Sanayi Sitesi 55. Sok. No:2 Sarıyer/ İSTANBUL</ADRES>
+        <IL_ADI>İSTANBUL</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>İSTANBUL TEKNİK ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.itu.edu.tr</WEB_ADRES>
+        <TEL>02122852900</TEL>
+        <FAX>02122856610</FAX>
+        <ADRES>İTÜ Ayazağa Yerleşkesi yeni Rektörlük Binası Kat:2 MASLAK-SARIYER-İSTANBUL</ADRES>
+        <IL_ADI>İSTANBUL</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>İSTANBUL TİCARET ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.ticaret.edu.tr</WEB_ADRES>
+        <TEL>02123144141</TEL>
+        <FAX>212 320 70 11</FAX>
+        <ADRES>Örnektepe Mahallesi, İmrahor Caddesi No: 88/2 34445 Beyoğlu / İSTANBUL</ADRES>
+        <IL_ADI>İSTANBUL</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>İSTANBUL ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.istanbul.edu.tr</WEB_ADRES>
+        <TEL>02124400000</TEL>
+        <FAX>0 212 440 00 10</FAX>
+        <ADRES>İSTANBUL ÜNİVERSİTESİ REKTÖRLÜK
+İSTANBUL UNIVERSITY RECTORATE
+İstanbul Üniversitesi, Beyazıt Yerleşkesi
+34452 Beyazıt, İstanbul – Türkiye</ADRES>
+        <IL_ADI>İSTABUL</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>İSTANBUL ÜNİVERSİTESİ-CERRAHPAŞA</KURUM_ADI>
+        <WEB_ADRES>www.istanbulc.edu.tr</WEB_ADRES>
+        <TEL>02124040700</TEL>
+        <FAX>02124040701</FAX>
+        <ADRES>İstanbul Üniversitesi-Cerrahpaşa Rektörlüğü Avcılar/İST</ADRES>
+        <IL_ADI>İSTANBUL</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>İSTANBUL YENİ YÜZYIL ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>www.yeniyuzyil.edu.tr</WEB_ADRES>
+        <TEL>02124493595</TEL>
+        <FAX>02124814058</FAX>
+        <ADRES>T.C. İstanbul Yeni Yüzyıl Üniversitesi
+Topkapı Dr. Azmi  Ofluoğlu Yerleşkesi
+Maltepe Mahallesi, Yılanlı Ayazma Caddesi No:26, 34010 Zeytinburnu/İstanbul</ADRES>
+        <IL_ADI>İSTANBUL</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>İSTANBUL 29 MAYIS ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.29mayis.edu.tr</WEB_ADRES>
+        <TEL>02164740860</TEL>
+        <FAX>02164740875</FAX>
+        <ADRES>Elmalıkent Mah. Elmalıkent Cad. No:4
+Ümraniye / İSTANBUL</ADRES>
+        <IL_ADI>İSTANBUL</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>İSTİNYE ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>www.istinye.edu.tr</WEB_ADRES>
+        <TEL>08502836000</TEL>
+        <FAX>212 481 36 88</FAX>
+        <ADRES>İstinye Üniversitesi Topkapı Kampüsü, Maltepe Mah., Edirne Çırpıcı Yolu, No.9 Zeytinburnu, İstanbul, 34010</ADRES>
+        <IL_ADI>İSTANBUL</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>İZMİR BAKIRÇAY ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>bakircay.edu.tr</WEB_ADRES>
+        <TEL>02324930000</TEL>
+        <FAX>02324930000</FAX>
+        <ADRES>Seyrek Kampüsü/ Gazi Mustafa Kemal Mah.Kaynaklar Cad./ Seyrek/Menemen/İZMİR</ADRES>
+        <IL_ADI>İZMİR</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>İZMİR DEMOKRASİ ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.idu.edu.tr</WEB_ADRES>
+        <TEL>02322601001</TEL>
+        <FAX>02322601004</FAX>
+        <ADRES>Üçkuyular Mahallesi, Gürsel Aksel Bulvarı, No:14 35140 Karabağlar/İZMİR</ADRES>
+        <IL_ADI>İZMİR</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>İZMİR EKONOMİ ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>www.ieu.edu.tr</WEB_ADRES>
+        <TEL>02322792525</TEL>
+        <FAX>02322792626</FAX>
+        <ADRES>SAKARYA CAD. NO:156 BALÇOVA/İZMİR</ADRES>
+        <IL_ADI>İZMİR</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>İZMİR KATİP ÇELEBİ ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.ikc.edu.tr/</WEB_ADRES>
+        <TEL>02323293535</TEL>
+        <FAX>02323860888</FAX>
+        <ADRES>İzmir Kâtip Çelebi Üniversitesi Çiğli Ana Yerleşkesi
+35620 İZMİR</ADRES>
+        <IL_ADI>İZMİR</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>İZMİR KAVRAM MESLEK YÜKSEKOKULU</KURUM_ADI>
+        <WEB_ADRES>www.kavram.edu.tr</WEB_ADRES>
+        <TEL>4449134</TEL>
+        <FAX>2122160914</FAX>
+        <ADRES>Oğuzlar Mah. 1251/2 Sok. No:8 Konak/İzmir</ADRES>
+        <IL_ADI>İZMIR</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>İZMİR TINAZTEPE ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>www.tinaztepe.edu.tr</WEB_ADRES>
+        <TEL>08508224988</TEL>
+        <FAX>0 232 440 44 22</FAX>
+        <ADRES>Aydoğdu Mahallesi, 1267/1 Sk., No.4 35400 Buca/İzmir</ADRES>
+        <IL_ADI>İZMIR</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>İZMİR YÜKSEK TEKNOLOJİ ENSTİTÜSÜ</KURUM_ADI>
+        <WEB_ADRES>http://www.iyte.edu.tr/</WEB_ADRES>
+        <TEL>02327506001</TEL>
+        <FAX>0232 750 6015</FAX>
+        <ADRES>İzmir Yüksek Teknoloji Enstitüsü Gülbahçe Kampüsü Urla/İZMİR</ADRES>
+        <IL_ADI>İZMİR</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>KADİR HAS ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.khas.edu.tr</WEB_ADRES>
+        <TEL>02125336532</TEL>
+        <FAX>0212 631 91 50</FAX>
+        <ADRES>Kadir Has Üniversitesi, Kadir Has Caddesi,
+Cibali / İSTANBUL 34083</ADRES>
+        <IL_ADI>İSTANBUL</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>KAFKAS ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.kafkas.edu.tr</WEB_ADRES>
+        <TEL>04742251158</TEL>
+        <FAX>04742251160</FAX>
+        <ADRES>Kafkas Üniversitesi Şehitler Mh. Turan Çelik Cd. Kombina Yolu Üzeri Merkez/KARS</ADRES>
+        <IL_ADI>KARS</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>KAHRAMANMARAŞ İSTİKLAL ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.istiklal.edu.tr</WEB_ADRES>
+        <TEL>03443004990</TEL>
+        <FAX>03443001722</FAX>
+        <ADRES>Kahramanmaraş İstiklal Üniversitesi Rektörlüğü, Menderes Mah. Cumhuriyet Bulvarı 46036 Sokak No:7 46060 Dulkadiroğlu/Kahramanmaraş 
+Santral: +90(344) 400-1000 
+E-Posta: Genelsekreterlik@Istiklal.edu.tr 
+Kep: Istiklaluni@Hs01.kep.tr</ADRES>
+        <IL_ADI>KAHRAMANMARAŞ</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>KAHRAMANMARAŞ SÜTÇÜ İMAM ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>www.ksu.edu.tr</WEB_ADRES>
+        <TEL>03443001000</TEL>
+        <FAX>0344 300 1037</FAX>
+        <ADRES>Kahramanmaraş Sütçü İmam Üniversitesi Rektörlüğü,  Avşar Mah. Batı Çevreyolu Blv.  No: 251/A 46040 - Onikişubat/Kahramanmaraş</ADRES>
+        <IL_ADI>KAHRAMANMARAŞ</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>KAPADOKYA ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>www.kapadokya.edu.tr</WEB_ADRES>
+        <TEL>03843535009</TEL>
+        <FAX>03843535125</FAX>
+        <ADRES>Üniversite Meydanı No:2 Mustafapaşa Ürgüp/Nevşehir</ADRES>
+        <IL_ADI>NEVŞEHIR</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>KARABÜK ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.karabuk.edu.tr/</WEB_ADRES>
+        <TEL>03704338200</TEL>
+        <FAX>0 370 433 20 05</FAX>
+        <ADRES>Karabük Üniversitesi Demir Çelik Kampüsü Balıklar Kaya Mevkii</ADRES>
+        <IL_ADI>MEVKII</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>KARADENİZ TEKNİK ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.ktu.edu.tr</WEB_ADRES>
+        <TEL>04623772101</TEL>
+        <FAX>04623253205</FAX>
+        <ADRES>Karadeniz Teknik Üniversitesi
+61080 - Trabzon</ADRES>
+        <IL_ADI>TRABZON</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>KARAMANOĞLU MEHMETBEY ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.kmu.edu.tr</WEB_ADRES>
+        <TEL>03382262000</TEL>
+        <FAX>00382262023</FAX>
+        <ADRES>Karamanoğlu Mehmetbey Üniversitesi, Yunus Emre Yerleşkesi, 70100 KARAMAN / TÜRKİYE</ADRES>
+        <IL_ADI>KARAMAN</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>KASTAMONU ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.kastamonu.edu.tr/index.php/tr/</WEB_ADRES>
+        <TEL>0 366 280 13 27</TEL>
+        <FAX>0 366 280 10 38</FAX>
+        <ADRES>Kastamonu Üniversitesi Rektörlüğü Kuzeykent Kampüsü Merkez/KASTAMONU</ADRES>
+        <IL_ADI>KASTAMONU</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>KAYSERİ ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.kayseri.edu.tr</WEB_ADRES>
+        <TEL>0352 504 38 38</TEL>
+        <FAX>352 504 38 37</FAX>
+        <ADRES>Mevlana Mah. 15 Temmuz Yerleşkesi Kümeevler Talas/KAYSERİ</ADRES>
+        <IL_ADI>KAYSERİ</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>KIRIKKALE ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://kku.edu.tr</WEB_ADRES>
+        <TEL>03183573416</TEL>
+        <FAX>03183573016</FAX>
+        <ADRES>Kırıkkale Üniversitesi Ankara Yolu 7. Km 71450 Yahşihan/Kırıkkale</ADRES>
+        <IL_ADI>KIRIKKALE</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>KIRKLARELİ ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.klu.edu.tr/</WEB_ADRES>
+        <TEL>02882129688-89</TEL>
+        <FAX>02882129682</FAX>
+        <ADRES>Cumhuriyet Mahallesi Kofcaz Yolu
+Kayalı Yerleşkesi Merkez-Kırklareli</ADRES>
+        <IL_ADI>KIRKLARELI</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>KIRŞEHİR AHİ EVRAN ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>ahievran.edu.tr</WEB_ADRES>
+        <TEL>03862804045</TEL>
+        <FAX>0386 2804052</FAX>
+        <ADRES>Bağbaşı Mah. Sahir kurutluoğlu cad. NO: 100 Merkez /KIRŞEHİR</ADRES>
+        <IL_ADI>KIRŞEHİR</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>KİLİS 7 ARALIK ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>www.kilis.edu.tr</WEB_ADRES>
+        <TEL>03488142666/1001-1002</TEL>
+        <FAX>03488142660</FAX>
+        <ADRES>Mehmet Sanlı Mah. Doğan Güreş Paşa Bulvarı No.134 Merlez/KİLİS</ADRES>
+        <IL_ADI>KİLİS</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>KOCAELİ SAĞLIK VE TEKNOLOJİ ÜNİVERSİTESİ</KURUM_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>KOCAELİ ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.kocaeli.edu.tr/</WEB_ADRES>
+        <TEL>02623031001</TEL>
+        <FAX>0262 303 10 33</FAX>
+        <ADRES>Umuttepe Merkez Yerleşkesi 41380 İzmit/KOCAELİ</ADRES>
+        <IL_ADI>KOCAELİ</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>KOÇ ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.ku.edu.tr</WEB_ADRES>
+        <TEL>02123381000</TEL>
+        <FAX>2123381248</FAX>
+        <ADRES>Koç Üniversitesi, Rumelifeneri Yolu, 34450, SARIYER, ISTANBUL</ADRES>
+        <IL_ADI>ISTANBUL</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>KONYA GIDA VE TARIM ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.gidatarim.edu.tr/</WEB_ADRES>
+        <TEL>03322235488</TEL>
+        <FAX>03322235490</FAX>
+        <ADRES>Melikşah Mah. Beyşehir Cad. No:9 42080 Meram / KONYA</ADRES>
+        <IL_ADI>KONYA</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>KONYA TEKNİK ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.ktun.edu.tr/</WEB_ADRES>
+        <TEL>03323508585</TEL>
+        <FAX>03323540012</FAX>
+        <ADRES>Akademi Mah. Yeni İstanbul Cad. No:235/1 Selçuklu/KONYA</ADRES>
+        <IL_ADI>KONYA</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>KTO KARATAY ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.karatay.edu.tr</WEB_ADRES>
+        <TEL>4441251</TEL>
+        <FAX>0332 2020044</FAX>
+        <ADRES>KTO Karatay Üniversitesi Rektörlüğü Akabe Mah. Alaaddin Kap Cad. No: 130 Karatay/KONYA</ADRES>
+        <IL_ADI>KONYA</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>KÜTAHYA DUMLUPINAR ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://dumlupinar.edu.tr</WEB_ADRES>
+        <TEL>02742652031</TEL>
+        <FAX>02742652004</FAX>
+        <ADRES>Dumlupınar Üniversitesi Evliya Çelebi Yerleşkesi Tavşanlı Yolu 10. km.     KÜTAHYA</ADRES>
+        <IL_ADI>KÜTAHYA</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>KÜTAHYA SAĞLIK BİLİMLERİ ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.ksbu.edu.tr/</WEB_ADRES>
+        <TEL>02742652286</TEL>
+        <FAX>02742652285</FAX>
+        <ADRES>Dumlupınar Üniversitesi Evliya Çelebi Yerleşkesi Tavşanlı Yolu 10. km KÜTAHYA</ADRES>
+        <IL_ADI>KÜTAHYA</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>LOKMAN HEKİM ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>www.lokmanhekim.edu.tr</WEB_ADRES>
+        <TEL>03122800808</TEL>
+        <FAX>312 280 0808</FAX>
+        <ADRES>Söğütözü Mah. 2179. Cad. No:6 Çankaya Ankara</ADRES>
+        <IL_ADI>ANKARA</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>MALATYA TURGUT ÖZAL ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>www.ozal.edu.tr</WEB_ADRES>
+        <TEL>05326100255</TEL>
+        <FAX>04228461225</FAX>
+        <ADRES>Alacakapı Mahallesi Kırkgöz Caddesi No:70 P.K. 44210 Battalgazi / MALATYA</ADRES>
+        <IL_ADI>MALATYA</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>MALTEPE ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.maltepe.edu.tr/</WEB_ADRES>
+        <TEL>02166261072</TEL>
+        <FAX>2166261070</FAX>
+        <ADRES>Maltepe Üniversitesi Marmara Eğitim Köyü PK:34857 MALTEPE İSTANBUL</ADRES>
+        <IL_ADI>İSTANBUL</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>MANİSA CELÂL BAYAR ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>www.cbu.edu.tr</WEB_ADRES>
+        <TEL>02362011014</TEL>
+        <FAX>02362372442</FAX>
+        <ADRES>Şehit Prof. Dr. İlhan Varank Kampüsü 45140 - Yunusemre - MANİSA</ADRES>
+        <IL_ADI>MANİSA</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>MARDİN ARTUKLU ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.artuklu.edu.tr/</WEB_ADRES>
+        <TEL>04822134002</TEL>
+        <FAX>0 482 213 40 04</FAX>
+        <ADRES>Mardin Artuklu Üniversitesi Yenişehir Yerleşkesi, Diyarbakır Yolu
+Yenişehir Mardin</ADRES>
+        <IL_ADI>MARDIN</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>MARMARA ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.marmara.edu.tr</WEB_ADRES>
+        <TEL>02125181600</TEL>
+        <FAX>0212 518 16 15</FAX>
+        <ADRES>M.Ü.Göztepe Kampüsü Rektörlük Binası 34722 Kadıköy / İSTANBUL</ADRES>
+        <IL_ADI>İSTANBUL</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>MEF ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.mef.edu.tr</WEB_ADRES>
+        <TEL>02123953600</TEL>
+        <FAX>0 212 395 36 92</FAX>
+        <ADRES>Ayazağa Cad. No.4 34396
+Maslak - Sarıyer - İstanbul</ADRES>
+        <IL_ADI>İSTANBUL</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>MERSİN ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.mersin.edu.tr/idari/genel-sekreterlik</WEB_ADRES>
+        <TEL>03243610001</TEL>
+        <FAX>0324 361 00 15</FAX>
+        <ADRES>Mersin Üniversitesi Çiftlikköy Kampusu Rektörlük Binası 33343 Yenişehir/MERSİN</ADRES>
+        <IL_ADI>MERSİN</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>MİMAR SİNAN GÜZEL SANATLAR ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.msgsu.edu.tr</WEB_ADRES>
+        <TEL>02122933760</TEL>
+        <FAX>0212 243 08 88</FAX>
+        <ADRES>Meclis-i Mebusan Caddesi No: 24
+Fındıklı 34427 İstanbul</ADRES>
+        <IL_ADI>İSTANBUL</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>MUĞLA SITKI KOÇMAN ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.mu.edu.tr/</WEB_ADRES>
+        <TEL>02522111000</TEL>
+        <FAX>02522239274</FAX>
+        <ADRES>Muğla Sıtkı Koçman Üniversitesi Rektörlüğü 48000 Menteşe/MUĞLA</ADRES>
+        <IL_ADI>MUĞLA</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>MUNZUR ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>www.munzur.edu.tr</WEB_ADRES>
+        <TEL>04282131794</TEL>
+        <FAX>04282132752</FAX>
+        <ADRES>Aktuluk Mahallesi Üniversite Yerleşkesi Merkez/TUNCELİ</ADRES>
+        <IL_ADI>TUNCELİ</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>MUŞ ALPARSLAN ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>www.alparslan.edu.tr</WEB_ADRES>
+        <TEL>04362494949</TEL>
+        <FAX>04362491022</FAX>
+        <ADRES>Muş Alparslan Üniversitesi Kampusu, Rektörlük, Diyarbakır Yolu 7. km 49250- MUŞ</ADRES>
+        <IL_ADI>MUŞ</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>NECMETTİN ERBAKAN ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.erbakan.edu.tr</WEB_ADRES>
+        <TEL>03322210699</TEL>
+        <FAX>03322362141</FAX>
+        <ADRES>Yaka Mah. Yeni Meram Cad. Kasım Halife Sok. No: 11 (A Blok) Posta Kodu: 42090 Meram / KONYA</ADRES>
+        <IL_ADI>KONYA</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>NEVŞEHİR HACI BEKTAŞ VELİ ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.nevsehir.edu.tr/</WEB_ADRES>
+        <TEL>03842281073</TEL>
+        <FAX>384 215 30 58</FAX>
+        <ADRES>Nevşehir Hacı Bektaş Veli Üniversitesi Rektörlüğü 
+2000 Evler Mahallesi Zübeyde Hanım Cad. 50300
+NEVŞEHİR</ADRES>
+        <IL_ADI>NEVŞEHİR</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>NİĞDE ÖMER HALİSDEMİR ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.ohu.edu.tr/</WEB_ADRES>
+        <TEL>03882252602-05-06</TEL>
+        <FAX>0 388 225 26 00</FAX>
+        <ADRES>Niğde Ömer Halisdemir Üniversitesi Rektörlüğü Rektörlük Binası 2. Kat Merkez Yerleşke Bor Yolu Üzeri 51240 Merkez/NİĞDE</ADRES>
+        <IL_ADI>NİĞDE</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>NİŞANTAŞI ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.nisantasi.edu.tr</WEB_ADRES>
+        <TEL>02122101010</TEL>
+        <FAX>02125652525</FAX>
+        <ADRES>Maslak Mahallesi, Taşyoncası Sokak,
+No: 1V ve No:1Y Bina Kodu: 34481742
+Sarıyer/İstanbul</ADRES>
+        <IL_ADI>İSTANBUL</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>NUH NACİ YAZGAN ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.nny.edu.tr</WEB_ADRES>
+        <TEL>03523240000</TEL>
+        <FAX>0352 324 00 04</FAX>
+        <ADRES>Erkilet Dere Mah. Kuzey Çevreyolu Nuh Naci Yazgan Üniversitesi Kocasinan/Kayseri</ADRES>
+        <IL_ADI>KAYSERI</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>ONDOKUZ MAYIS ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.omu.edu.tr/</WEB_ADRES>
+        <TEL>03624575870</TEL>
+        <FAX>0362 457 60 91</FAX>
+        <ADRES>Ondokuz Mayıs Üniversitesi Rektörlük Binası 
+Kurupelit Kampüsü, 55139 Atakum / SAMSUN</ADRES>
+        <IL_ADI>SAMSUN</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>ORDU ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.odu.edu.tr</WEB_ADRES>
+        <TEL>04522345010</TEL>
+        <FAX>045222265280</FAX>
+        <ADRES>Cumhuriyet Yerleşkesi 52200 Altınordu/ORDU</ADRES>
+        <IL_ADI>ORDU</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>ORTA DOĞU TEKNİK ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.metu.edu.tr</WEB_ADRES>
+        <TEL>03122101100</TEL>
+        <FAX>2101105</FAX>
+        <ADRES>Orta Doğu Teknik Üniversitesi Üniversiteler Mah.Dumlupınar Blv.No:1 06800 Çankaya Ankara/TÜRKİYE</ADRES>
+        <IL_ADI>TÜRKİYE</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>OSMANİYE KORKUT ATA ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.osmaniye.edu.tr</WEB_ADRES>
+        <TEL>03288251818</TEL>
+        <FAX>328 825 00 97</FAX>
+        <ADRES>Karacaoğlan Yerleşkesi 80000
+Merkez/OSMANİYE</ADRES>
+        <IL_ADI>OSMANİYE</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>OSTİM TEKNİK ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>www.ostimteknik.edu.tr</WEB_ADRES>
+        <TEL>03123861092</TEL>
+        <FAX>03123543993</FAX>
+        <ADRES>OSTİM Teknik Üniversitesi OSTİM, 06374 Ankara</ADRES>
+        <IL_ADI>ANKARA</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>ÖZYEĞİN ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>www.ozyegin.edu.tr</WEB_ADRES>
+        <TEL>02165649300</TEL>
+        <FAX>02165649999</FAX>
+        <ADRES>Nişantepe Mah. Orman Sok. No:34-36 Çekmeköy-İstanbul</ADRES>
+        <IL_ADI>İSTANBUL</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>PAMUKKALE ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.pau.edu.tr</WEB_ADRES>
+        <TEL>02582962020</TEL>
+        <FAX>0 258 296 23 33</FAX>
+        <ADRES>Pamukkale Üniversitesi Rektörlüğü Kınıklı Yerleşkesi 20070 DENİZLİ</ADRES>
+        <IL_ADI>DENİZLİ</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>PİRİ REİS ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.pirireis.edu.tr</WEB_ADRES>
+        <TEL>02165810050</TEL>
+        <FAX>02165810051</FAX>
+        <ADRES>Postane Mahallesi, Eflatun Sk. No:8, 34940 Tuzla/İSTANBUL</ADRES>
+        <IL_ADI>İSTANBUL</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>RECEP TAYYİP ERDOĞAN ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>erdogan.edu.tr</WEB_ADRES>
+        <TEL>04642238100</TEL>
+        <FAX>0464 223 6328</FAX>
+        <ADRES>Recep Tayyip Erdoğan Üniversitesi Zihni Derin Yerleşkesi, Fener Mah. 53100 RİZE</ADRES>
+        <IL_ADI>RİZE</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>SABANCI ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.sabanciuniv.edu</WEB_ADRES>
+        <TEL>02164839000</TEL>
+        <FAX>0216 483 90 05</FAX>
+        <ADRES>Sabancı Üniversite Orta Mah. Üniversite Caddesi No:27 34956 Orhanlı Tuzla İstanbu</ADRES>
+        <IL_ADI>İSTANBUL</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>SAĞLIK BİLİMLERİ ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.sbu.edu.tr</WEB_ADRES>
+        <TEL>02164189616</TEL>
+        <FAX>02164189620</FAX>
+        <ADRES>Mekteb-i Tıbbiye-i Şahane (Haydarpaşa) Külliyesi, Selimiye Mah. Tıbbiye Cad. No:38 34668 ÜSKÜDAR/İSTANBUL</ADRES>
+        <IL_ADI>İSTANBUL</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>SAKARYA UYGULAMALI BİLİMLER ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>www.subu.edu.tr</WEB_ADRES>
+        <TEL>0264 6160054</TEL>
+        <FAX>0264 616 0014</FAX>
+        <ADRES>Sakarya uygulamalı bilimler üniversitesi Esentepe Kampüsü Serdivan /Sakarya</ADRES>
+        <IL_ADI>SAKARYA</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>SAKARYA ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.sakarya.edu.tr</WEB_ADRES>
+        <TEL>02642955454</TEL>
+        <FAX>02642955032</FAX>
+        <ADRES>Sakarya Üniversitesi Esentepe Kampüsü 54187 Serdivan / SAKARYA</ADRES>
+        <IL_ADI>SAKARYA</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>SAMSUN ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>www.samsun.edu.tr</WEB_ADRES>
+        <TEL>0(362)3130055</TEL>
+        <FAX>0(362)3130200</FAX>
+        <ADRES>Gürgenyatak Mahallesi Canik/SAMSUN</ADRES>
+        <IL_ADI>SAMSUN</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>SANKO ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.sanko.edu.tr</WEB_ADRES>
+        <TEL>03422116500</TEL>
+        <FAX>03422116505</FAX>
+        <ADRES>İncilipınar Mah. Gazi Muhtar Paşa Bulv.                                               
+No:36 27090 Şehitkamil/ GAZİANTEP</ADRES>
+        <IL_ADI>GAZİANTEP</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>SELÇUK ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.selcuk.edu.tr/</WEB_ADRES>
+        <TEL>03322238400</TEL>
+        <FAX>03322238265</FAX>
+        <ADRES>Alaaddin Keykubat Kampüsü, Akademi Mahallesi, Yeni İstanbul Caddesi No:369/1 42130
+Selçuklu-KONYA</ADRES>
+        <IL_ADI>KONYA</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>SİİRT ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://siirt.edu.tr</WEB_ADRES>
+        <TEL>04842121111</TEL>
+        <FAX>04842231998</FAX>
+        <ADRES>Kezer Yerleşkesi Veysel Karani Mah. Üniversite Cad. No:1 56100 Merkez/SİİRT</ADRES>
+        <IL_ADI>SİİRT</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>SİNOP ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.sinop.edu.tr </WEB_ADRES>
+        <TEL>03682715757</TEL>
+        <FAX>0-368 2715763</FAX>
+        <ADRES>Korucuk Köyü Trafo Mahallesi No:36  57000 ? SİNOP</ADRES>
+        <IL_ADI>SİNOP</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>SİVAS BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.sivas.edu.tr/</WEB_ADRES>
+        <TEL>0 346 219 13 98</TEL>
+        <FAX>0 346 219 16 78</FAX>
+        <ADRES>Yenişehir  Mah. Kardeşler Cad. No:7/1
+Merkez/SİVAS</ADRES>
+        <IL_ADI>SİVAS</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>SİVAS CUMHURİYET ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.cumhuriyet.edu.tr</WEB_ADRES>
+        <TEL>03462191158</TEL>
+        <FAX>03462191110</FAX>
+        <ADRES>Cumhuriyet Üniversitesi, Yenişehşr Mah. Kayseri Caddesi 58140 Kampüs SİVAS</ADRES>
+        <IL_ADI>SİVAS</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>SÜLEYMAN DEMİREL ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.sdu.edu.tr/</WEB_ADRES>
+        <TEL>02462111000</TEL>
+        <FAX>02462370431</FAX>
+        <ADRES>Süleyman Demirel Üniversitesi Batı Yerleşkesi Rektörlük Binası 32260  Çünür / ISPARTA</ADRES>
+        <IL_ADI>ISPARTA</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>ŞIRNAK ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.sirnak.edu.tr</WEB_ADRES>
+        <TEL>04862168241</TEL>
+        <FAX>04862163285</FAX>
+        <ADRES>Yeni Mahalle Cizre Caddesi Mehmet Emin Acar Kampüsü
+73000 Şırnak - Türkiye</ADRES>
+        <IL_ADI>TÜRKIYE</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>TARSUS ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>www.tarsus.edu.tr</WEB_ADRES>
+        <TEL>03246000033</TEL>
+        <FAX>03246000060</FAX>
+        <ADRES>Takbaş  Mah. Kartaltepe sokak 33400 Tarsus / MERSİN</ADRES>
+        <IL_ADI>MERSİN</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>TED ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.tedu.edu.tr</WEB_ADRES>
+        <TEL>03125850000</TEL>
+        <FAX>03124184148</FAX>
+        <ADRES>TED Üniversitesi, Ziya Gökalp Caddesi No.48 06420, Kolej Çankaya ANKARA</ADRES>
+        <IL_ADI>ANKARA</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>TEKİRDAĞ NAMIK KEMAL ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.nku.edu.tr</WEB_ADRES>
+        <TEL>02822501002</TEL>
+        <FAX>028225099000</FAX>
+        <ADRES>Namık Kemal Mah. Kampüs Cad. No:1 Merkez-TEKİRDAĞ</ADRES>
+        <IL_ADI>TEKİRDAĞ</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>TOBB EKONOMİ VE TEKNOLOJİ ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>www.etu.edu.tr</WEB_ADRES>
+        <TEL>03122924005</TEL>
+        <FAX>03122924099</FAX>
+        <ADRES>SÖĞÜTÖZÜ CADDESİ NO:43 ÇANKAYA/ANKARA</ADRES>
+        <IL_ADI>ANKARA</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>TOKAT GAZİOSMANPAŞA ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>www.gop.edu.tr</WEB_ADRES>
+        <TEL>0-356-2521616</TEL>
+        <FAX>0-356-2521626</FAX>
+        <ADRES>Gaziosmanpaşa Üniversitesi Rektörlüğü Taşlıçiftlik Yerleşkesi TOKAT</ADRES>
+        <IL_ADI>TOKAT</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>TOROS ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>www.toros.edu.tr</WEB_ADRES>
+        <TEL>03243253300</TEL>
+        <FAX>0324 325 3301</FAX>
+        <ADRES>Bahçelievler Kampüsü 1857 Sokak No:12 33140 Yenişehir MERSİN</ADRES>
+        <IL_ADI>MERSİN</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>TRABZON ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>www.trabzon.edu.tr</WEB_ADRES>
+        <TEL>4624551000</TEL>
+        <FAX>04624552472</FAX>
+        <ADRES>TRABZON ÜNİVERSİTESİ REKTÖRLÜĞÜ
+Söğütlü Mahallesi
+Adnan Kahveci Bulvarı
+61335 – Akçaabat-Trabzon / TÜRKİYE</ADRES>
+        <IL_ADI>TRABZON</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>TRAKYA ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.trakya.edu.tr/</WEB_ADRES>
+        <TEL>02842234210-11-12-13/02842364981-82-84-85</TEL>
+        <FAX>02842234203</FAX>
+        <ADRES>Trakya Üniversitesi Rektörlüğü 22030 Balkan Yerleşkesi / EDİRNE</ADRES>
+        <IL_ADI>EDİRNE</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>TÜRK HAVA KURUMU ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.thk.edu.tr</WEB_ADRES>
+        <TEL>0312 444 84 58</TEL>
+        <FAX>0312 342 84 60</FAX>
+        <ADRES>Bahçekapı Mahallesi Okul Sokak No:11 Etimesgut / ANKARA</ADRES>
+        <IL_ADI>ANKARA</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>TÜRK-ALMAN ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.tau.edu.tr/</WEB_ADRES>
+        <TEL>02163333000</TEL>
+        <FAX>0216 333 30 31</FAX>
+        <ADRES>Şahinkaya Cad. No: 86 Beykoz/İSTANBUL</ADRES>
+        <IL_ADI>İSTANBUL</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>TÜRKİYE ULUSLARARASI İSLAM, BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ</KURUM_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>TÜRK-JAPON BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ</KURUM_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>UFUK ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.ufuk.edu.tr</WEB_ADRES>
+        <TEL>03125867041</TEL>
+        <FAX>3125867124</FAX>
+        <ADRES>Ufuk Üniversitesi Rektörlüğü  Kızılcaşar Mahallesi İncek Bulvarı 06836 İncek/Gölbaşı/ANKARA</ADRES>
+        <IL_ADI>ANKARA</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>UŞAK ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.usak.edu.tr</WEB_ADRES>
+        <TEL>02762212121</TEL>
+        <FAX>0276 221 22 02</FAX>
+        <ADRES>Uşak Üniversitesi Rektörlüğü 1 Eylül Kampüsü  64200 - UŞAK</ADRES>
+        <IL_ADI>UŞAK</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>ÜSKÜDAR ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.uskudar.edu.tr</WEB_ADRES>
+        <TEL>02164002222</TEL>
+        <FAX>0216 474 12 56</FAX>
+        <ADRES>Altunizade Mah.Haluk Türksoy Sok. No:14 Üsküdar/İstanbul</ADRES>
+        <IL_ADI>İSTANBUL</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>VAN YÜZÜNCÜ YIL ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.yyu.edu.tr/</WEB_ADRES>
+        <TEL>4445065</TEL>
+        <FAX>0 432 486 54 13</FAX>
+        <ADRES>Van Yüzüncü Yıl Üniversitesi Rektörlüğü, 65080, Kampüs / VAN</ADRES>
+        <IL_ADI>VAN</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>YALOVA ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.yalova.edu.tr/rektorluk</WEB_ADRES>
+        <TEL>02268155001</TEL>
+        <FAX>226 815 50 04</FAX>
+        <ADRES>Çınarcık Yolu 2.km Merkez Kampüsü Yalova</ADRES>
+        <IL_ADI>YALOVA</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>YAŞAR ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.yasar.edu.tr</WEB_ADRES>
+        <TEL>02325707100</TEL>
+        <FAX>2325707000</FAX>
+        <ADRES>Üniversite Cad., No.:35-37, Ağaçlı Yol, Bornova-İZMİR</ADRES>
+        <IL_ADI>İZMİR</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>YEDİTEPE ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.yeditepe.edu.tr/</WEB_ADRES>
+        <TEL>02165780203</TEL>
+        <FAX>0216 578 00 00</FAX>
+        <ADRES>26 Ağustos Yerleşimi.Kayışdağı Cad.34755 Ataşehir/İstanbul</ADRES>
+        <IL_ADI>İSTANBUL</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>YILDIZ TEKNİK ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.yildiz.edu.tr</WEB_ADRES>
+        <TEL>02122277119</TEL>
+        <FAX>0212 2276990</FAX>
+        <ADRES>Davutpaşa Mah. Davutpaşa Cad. 34220 Esenler - İstanbul</ADRES>
+        <IL_ADI>İSTANBUL</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>YOZGAT BOZOK ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>http://www.bozok.edu.tr/</WEB_ADRES>
+        <TEL>03542123728</TEL>
+        <FAX>0 354 212 28 37</FAX>
+        <ADRES>Medrese Mahallesi Adnan Menderes Bulvarı No:118 66200 Yozgat</ADRES>
+        <IL_ADI>YOZGAT</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>YÜKSEK İHTİSAS ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>Yüksek İhtisas Üniversitesi</WEB_ADRES>
+        <TEL>0312 329 1010</TEL>
+        <FAX>0312 329 1015</FAX>
+        <ADRES>Oğuzlar Mahallesi 1375.Sokak No: 8 
+Balgat /ANKARA</ADRES>
+        <IL_ADI>ANKARA</IL_ADI>
+    </Table>
+    <Table>
+        <KURUM_ADI>ZONGULDAK BÜLENT ECEVİT ÜNİVERSİTESİ</KURUM_ADI>
+        <WEB_ADRES>https://www.beun.edu.tr</WEB_ADRES>
+        <TEL>0372 291 11 00</TEL>
+        <FAX>0  372 257 50 78</FAX>
+        <ADRES>Zonguldak Bülent Ecevit Üniversitesi Rektörlüğü
+İncivez-ZONGULDAK</ADRES>
+        <IL_ADI>ZONGULDAK</IL_ADI>
+    </Table>
+</Kurum_Arama>

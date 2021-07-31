@@ -1,0 +1,21 @@
+Options +FollowSymLinks
+Options -Indexes
+AddDefaultCharset utf-8
+
+
+RewriteEngine On
+
+
+RewriteRule ^(teacher|student)$ index.php?who=$1 [QSA]
+
+RewriteRule ^signup$ signup.php [QSA]
+RewriteRule ^admin([A-Za-z0-9/-]*)$ admin.php [QSA]
+
+RewriteRule ^$ index.php [QSA]
+
+RewriteRule !^(assets|signup|admin) index.php [QSA]
+
+
+
+
+
