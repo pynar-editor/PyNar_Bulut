@@ -32,6 +32,27 @@ api
 
     sudo a2enmod rewrite
 
+### Files ve Sessions dizinleri
+
+'api' dizini altında aşağıdaki dizin hiyerarşisini oluşturunuz.
+
+    api
+      |-- chunks
+            |-- files
+            |-- sessions
+
+Aşağıdaki kod yardımıyla gerçekleştirebilirsiniz.
+
+    mkdir chunks && mkdir chunks/files && mkdir chunks/sessions
+
+Daha sonrasında PHP'nin kullanıcısı olan www-data kullanıcısını dosyanın sahibi olarak atayınız.
+
+    chown -R www-data:www-data chunks/
+
+Son olarak da bu klasörü için sadece sahibine okuma, yazma ve çalıştırma yetkisi veriniz.
+
+    chmod -R 700 chunks/
+
 # SIFIRDAN UYGULAMAYI DAĞITMAK - UBUNTU 20.04 LTS
 
 ## APACHE2 KURULUMU
